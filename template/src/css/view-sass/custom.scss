@@ -1,0 +1,14 @@
+/* The following block can be included in a custom.scss */
+$padding-right:null;
+/* make the customizations */
+$theme-colors: (
+    "persoColor1": tomato,
+    "persoColor2": tomato,
+    "persoColor3": tomato,
+   
+ 
+ 
+);
+
+/* import bootstrap to set changes */
+@import "./../scss-externals/src-bootstrap/v5.2.2-version/scss/bootstrap";
