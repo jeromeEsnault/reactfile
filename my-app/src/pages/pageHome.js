@@ -3,9 +3,9 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import Helmet from "../Helmet/helmet";
 
-import Navbar from "core/navbar/mono-navbar";
+import Navbar from "core/navbar/navbar";
 
-import PageHome from "./PageHome/PageHome";
+import PageHome from "pages/PageHome/PageHome";
 
 import Footer from "core/footer/footer";
 
